@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/licco_esd/static/css/main.073c9b0a.css",
-    "main.js": "/licco_esd/static/js/main.8484e1dd.js",
+    "main.css": "/licco_esd/static/css/main.c7ab8095.css",
+    "main.js": "/licco_esd/static/js/main.a1350b4a.js",
     "static/js/787.de8f4414.chunk.js": "/licco_esd/static/js/787.de8f4414.chunk.js",
-    "static/media/logo.svg": "/licco_esd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/licco_esd/index.html",
-    "main.073c9b0a.css.map": "/licco_esd/static/css/main.073c9b0a.css.map",
-    "main.8484e1dd.js.map": "/licco_esd/static/js/main.8484e1dd.js.map",
+    "main.c7ab8095.css.map": "/licco_esd/static/css/main.c7ab8095.css.map",
+    "main.a1350b4a.js.map": "/licco_esd/static/js/main.a1350b4a.js.map",
     "787.de8f4414.chunk.js.map": "/licco_esd/static/js/787.de8f4414.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8484e1dd.js"
+    "static/css/main.c7ab8095.css",
+    "static/js/main.a1350b4a.js"
   ]
 }
